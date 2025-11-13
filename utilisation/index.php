@@ -68,7 +68,7 @@
                     des années d'expérience en logistique, il
                     offre à nos livraisons conseil : respect
                     des horaires, présentation impeccable,
-                    service client irréprochable.
+                    service client irréprochable ok
                 </p>
             </div>
         </div>
