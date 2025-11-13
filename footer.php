@@ -1,0 +1,1 @@
+<!-- copier le code pour le footer et le include sur chaque pqge -->

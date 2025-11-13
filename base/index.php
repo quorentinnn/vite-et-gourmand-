@@ -74,5 +74,63 @@
         </div>
     </section>
 
+     <section class="vedette">
+        <h2 class="Qui">vedette</h2>
+
+        <div class="boxes-container">
+            <div class="box box3">
+                <!-- image vedette -->
+               
+            </div>
+
+            <div class="box box4">
+                <!-- image vedette -->
+            </div>
+        </div>
+    </section>
+
+    <section class="experience">
+        <h2 class="Qui">25 ans d'experience</h2>
+
+        <div class="boxes-container">
+            <div class="box box6">
+                <!-- image vedette -->
+                 <p> </p>
+        </div>
+     </section>
+
+
+      <section class="regale">
+        <h2 class="Qui">pret a vous regaler</h2>
+        <p>decouvrer nos menu adapte a tous evenement et tous les gouts</p>
+          <a href="btn#">Nos menus</a>
+        </div>
+     </section>
+
+     <footer>
+
+     <div class="vite gourmand">
+            <p>&copy; 2024 Vite & Gourmand. Tous droits réservés.</p>
+        </div>
+
+        <div class="horaire">
+            <p>&copy; 2024 Vite & Gourmand. Tous droits réservés.</p>
+        </div>
+
+        <div class="contact">
+            <p>&copy; 2024 Vite & Gourmand. Tous droits réservés.</p>
+        </div>
+
+        <div class="informqtions">
+            <p>&copy; 2024 Vite & Gourmand. Tous droits réservés.</p>
+        </div>
+
+
+
+        <div class="footer">
+            <p>&copy; 2024 Vite & Gourmand. Tous droits réservés.</p>
+        </div>
+
+
 </body>
 </html>
