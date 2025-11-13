@@ -1,0 +1,156 @@
+/* Styles généraux du corps de la page */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* En-tête principal avec logo et navigation */
+.header  {
+    padding: 10px;
+    background-color: brown;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+/* Couleur dorée pour le mot "Vite" */
+.vite {
+    color: #D4AF37 ;
+    text-align: center;
+    justify-content: center;
+}
+
+/* Conteneur des liens de navigation */
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: center;
+}
+
+/* Liste de navigation */
+ul {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 30px;
+    list-style: none;
+}
+
+/* Éléments de la liste */
+li {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+/* Style par défaut des liens */
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
+/* Bouton de connexion dans le header */
+.connexion {
+    background-color: #D4AF37 ;
+    padding: 8px 15px;
+    border-radius: 5px;
+    color: black;
+}
+
+/* Effet au survol des liens */
+a:hover {
+    color: #ffffff ;
+    border-bottom: 2px solid #D4AF37;
+    transform: scale(1.1);
+}
+
+
+/* Style du bouton btn-2 */
+.btn-2 {
+    display: inline-block;
+    background-color: #D4AF37;
+    color: black;
+    padding: 12px 25px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    text-align: center;
+    border-bottom: 4px solid #A8862C;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.btn-2:hover {
+    background-color: #C19B2F;
+    transform: scale(1.05);
+    border-bottom: none;
+}
+
+
+
+.content-title{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: -1px;
+}
+
+content-subtitle {
+    display: flex;
+    flex-direction: column;
+}
+
+.vite1 {
+    font-size: 25px;
+    color: #C19B2F;
+    text-align: center;
+    font-weight: bold;
+    margin: -5px;      
+    
+}
+
+.vous {
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Conteneur de la section Bienvenue */
+.Bienvenue {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    margin-top: 50px;
+}
+
+.bienvenue {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    margin-top: 50px;
+}
+
+
+.Qui {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.qui-sommes-nous {
+    background-color: ;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+
+}
